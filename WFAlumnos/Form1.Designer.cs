@@ -321,7 +321,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::WFAlumnos.Properties.Resources.logo_umg_juvenil_peque;
-            this.pictureBox1.Location = new System.Drawing.Point(506, 12);
+            this.pictureBox1.Location = new System.Drawing.Point(515, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(100, 50);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
